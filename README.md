@@ -35,6 +35,9 @@ python voice_attendance.py
 3. The system will automatically record the attendance with timestamp
 4. View today's records using the "View Records" button
 
-## Data Storage
+## output
+![image alt](https://github.com/Swadeeppatil/voice-based-attendance-system/blob/main/Screenshot%20(153).png?raw=true)
 
-Attendance records are stored in CSV format in the `attendance_records` folder, organized by date.
+![image alt](https://github.com/Swadeeppatil/voice-based-attendance-system/blob/main/Screenshot%20(154).png?raw=true)
+
+![image alt](https://github.com/Swadeeppatil/voice-based-attendance-system/blob/main/Screenshot%202025-02-27%20202044.png?raw=true)
